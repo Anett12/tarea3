@@ -1,0 +1,9 @@
+{
+    "Usuario": [
+        {
+            "Id": 1,
+            "NombreUsuario": "anett",
+            "Contraseña": "123"
+        }
+    ]
+}
